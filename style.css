@@ -1,12 +1,32 @@
+body{background-color: rgb(196, 245, 176);}
+
+img{  height: 250px;
+    width: 350px;
+   position: relative;
+left: 500px;
+
+   
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 400;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
 
 
-div{
+
+#items{
     background-color: aquamarine;
     height: 250px;
     width: 350px;
     display: flex;
     flex-flow:row wrap;
   align-items: stretch;
+  position: relative;
+  left: 500px;
+
 
 }
 
